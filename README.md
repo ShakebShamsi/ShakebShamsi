@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shakebshamsi" alt="shakebshamsi" /></a> </p>
 
-- 🔭 I’m currently working on **Scientific Calculator**
+- 🔭 I’m currently working on **My Portfolio**
 
 - 🌱 I’m currently learning **Advance JavaScript, ReactJs**
 
