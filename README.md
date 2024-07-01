@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shakeb Shamsi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakebshamsi&label=Profile%20views&color=0e75b6&style=flat" alt="shakebshamsi" /> </p>
 
@@ -7,15 +7,15 @@
 
 - 🔭 I’m currently working on **My Portfolio**
 
-- 🌱 I’m currently learning **Python, Django**
+- 🌱 I’m currently learning **Python, ML**
 
 - 👯 I’m looking to collaborate on **API**
 
-- 🤝 I’m looking for help with **Advance JavaScript**
+- 🤝 I’m looking for help with **Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShakebShamsi](https://github.com/ShakebShamsi)
 
-- 💬 Ask me about **HTML5,CSS3,BootStrap**
+- 💬 Ask me about **SQL, PYTHON, POWER BI, TABLEAU,HTML5,CSS3,BootStrap, MS EXCEL**
 
 - 📫 How to reach me **shakebshamsi@hotmail.com**
 
