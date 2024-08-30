@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **SQL, PYTHON, POWER BI, TABLEAU,HTML5,CSS3,BootStrap, MS EXCEL**
 
-- 📫 How to reach me **shakebshamsi@hotmail.com**
+- 📫 How to reach me **info.shakeb@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/ShakebShamsi](https://github.com/ShakebShamsi)
 
