@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shakeb Shamsi</h1>
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
 
-<p align="center">
-  <img src="https://shakeb.onrender.com/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=gruvbox" alt="yourusername" />
-  </a>
-</p>
-
 - 🔭 I’m currently working on **Personal Projects and Open Source Contributions**
 
 - 🌱 I’m currently learning **Advanced Backend Architectures & DevOps**
